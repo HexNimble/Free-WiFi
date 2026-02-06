@@ -30,3 +30,23 @@ Scan the QR code or open the GitHub Pages link once enabled.
 ---
 
 ## 📁 Project Structure
+
+---
+
+## 🛠️ Tech Used
+- HTML5
+- CSS3
+- GitHub Pages
+
+---
+
+## ⚠️ Disclaimer
+This is a **harmless prank project**.
+No malware, no phishing, no data collection.
+Just humor.
+
+---
+
+## 📄 License
+No license. Use, modify, or ignore.
+
